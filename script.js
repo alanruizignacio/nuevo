@@ -29,7 +29,6 @@ function mostrarFotos() {
     'fotos/imagen1.jpeg',
     'fotos/imagen2.jpeg',
     'fotos/imagen3.jpeg',
-    'fotos/imagen4.jpeg',
   ];
 
   fotosContainer.innerHTML = '';
